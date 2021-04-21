@@ -29,3 +29,6 @@ It is a platform dependent API for creating Graphical User Interface (GUI) for j
 <p align="center">
   <img src="Image/Options.png" width="350" height="auto" title="options">
 </p>
+
+<h2>Drive Link for Text Editor Executable jar file</h2>
+link- https://drive.google.com/drive/folders/15C8N3e5r8Fn-wtVyJPSuhoA19hNz7gP4?usp=sharing
