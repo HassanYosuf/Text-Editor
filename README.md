@@ -12,9 +12,9 @@ It is a platform dependent API for creating Graphical User Interface (GUI) for j
 <br>
 <h2>Featires</h2>
 1.New file<br>
-2.Save Files<br><br><br><br><br><br>
-3.Open Files<br><br><br><br><br>
-4.Copy Text<br><br><br><br>
+2.Save Files<br><br>
+3.Open Files<br><br>
+4.Copy Text<br><br><br>
 5.Cut Text<br><br><br>
 6.Paste Text<br><br>
 7.Search Words/Sentence(s)<br>
