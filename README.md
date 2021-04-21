@@ -14,7 +14,7 @@ It is a platform dependent API for creating Graphical User Interface (GUI) for j
 1.New file<br>
 2.Save Files<br>
 3.Open Files<br>
-4.Copy Text<br><br>
-5.Cut Text<br><br>
+4.Copy Text<br>
+5.Cut Text<br>
 6.6.Paste Text<br>
 7.Search Words/Sentence(s)<br>
